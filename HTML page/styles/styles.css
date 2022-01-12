@@ -11,4 +11,11 @@ body{
     background-color: lavenderblush;
 }
 
+#btn{
+    margin-left:auto ;
+    margin-block-end: auto;
+    margin-block-end: auto;
+    margin-right: auto;
+    border-left: solid coral 10px;
+}
 
